@@ -1,4 +1,4 @@
-import 'package:first_app/results.dart';
+import 'package:first_app/screens/results.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
