@@ -16,12 +16,6 @@ class _UserListState extends State<UserList> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        appBar: AppBar(
-          title: Text("Http Get Request"),
-          leading: Icon(
-            Icons.account_circle,
-          ),
-        ),
         body: Container(
           padding: EdgeInsets.all(8.0),
           child: FutureBuilder(
